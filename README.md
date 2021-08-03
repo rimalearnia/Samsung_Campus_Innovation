@@ -1,4 +1,4 @@
-# the_samsung_tests include:
+# The_samsung_tests include:
 301:sample size
 
 302:probability of the sample mean with standard normal distribution and studend_t ditribution
