@@ -12,3 +12,4 @@ The_samsung_tests include:
 306:F test of variance ratio
 
 307:EDA and ANOVA
+503: data augmentation (improve models) 
