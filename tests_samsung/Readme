@@ -1,4 +1,11 @@
 The_samsung_tests include:
+
+201:EDA, descriptive statistics (mean,min,max)
+
+202: descriptive statistics 
+
+203: EDA,descriptive statistics 
+
 301:sample size
 
 302:probability of the sample mean with standard normal distribution and studend_t ditribution
@@ -12,4 +19,5 @@ The_samsung_tests include:
 306:F test of variance ratio
 
 307:EDA and ANOVA
+
 503: data augmentation (improve models) 
